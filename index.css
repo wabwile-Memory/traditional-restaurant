@@ -142,8 +142,18 @@ li {
     display: flex;
     width:25%;
     padding:20px;
-    margin-left: 15%;
+    margin:3% 10% 5% 20%;
+   
 }
 .image4{
     padding-right: 35px;
+}
+.content>h5{
+    color: #F19201;
+}
+.content>button{
+    border-style: none ;
+    background-color: rgba(245, 238, 238, 0.932);
+    padding: 10px 30px 10px 30px;
+    
 }
