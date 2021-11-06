@@ -1,0 +1,41 @@
+.firstcontainer{
+    background-image: url("images/image2.png") ;
+   
+    }
+li{
+    display:flex;
+    color: white;
+    list-style-type: none;
+    display: inline-flex;
+    justify-content: space-between;
+    padding: 20px;
+    
+}
+#home{
+    color:rgba(253, 165, 0, 0.959) ;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+
+}
+#nav{
+    background-color: rgba(253, 165, 0, 0.959);
+    border: none;
+    color:white;
+    padding: 5px;
+}
+#order{
+    background-color: rgba(253, 165, 0, 0.959);
+    border: none;
+    color:white;
+    padding: 5px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+
+}
+.premium>h1{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left:50px;
+}
