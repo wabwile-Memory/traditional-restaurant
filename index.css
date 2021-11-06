@@ -82,3 +82,15 @@ li{
     background-color: #F19201;
     padding:25px;
 }*/
+.thirdcontainer{
+    display: flex;
+    background-color: red;
+}
+.dark{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+}
