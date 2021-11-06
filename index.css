@@ -130,13 +130,16 @@ li {
 }
 .fourthcontainer{
     background-color: rgba(245, 238, 238, 0.932);
+    
 }
+
 .menu{
     text-align: center;
 }
 .menu>h2{
     color:#F19201;
 }
+
 .chapati{
     background-color: white;
     display: flex;
@@ -156,4 +159,13 @@ li {
     background-color: rgba(245, 238, 238, 0.932);
     padding: 10px 30px 10px 30px;
     
+}
+.beefstew{
+    background-color: white;
+    display: flex;
+    width:25%;
+    padding:20px;
+    margin:3% 20% 5% 10%;
+    float: right;
+    display: flex;
 }
