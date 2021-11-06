@@ -75,29 +75,32 @@ li {
     color: #F19201;
     padding: 5px;
 }
-.dots{
+
+.dots {
     display: flex;
     align-content: center;
     justify-content: space-between;
 }
-.drink{
-    height:20%;
+
+.drink {
+    height: 20%;
     width: 20%;
     background-color: white;
     margin-bottom: 40px;
-    padding:20px;
+    padding: 20px;
     align-items: center;
     text-align: center;
-    
+
 }
-.drink>h2{
+
+.drink>h2 {
     color: white;
     height: 25px;
     width: 25px;
     border-radius: 50%;
     background-color: #F19201;
-    padding:25px;
-    
+    padding: 25px;
+
 }
 
 .thirdcontainer {
@@ -106,21 +109,28 @@ li {
     background-color: tomato;
     height: max-content;
 }
-.image3{
+
+.image3 {
     width: 50%;
 }
-#imag3{
-    width:100%;
+
+#imag3 {
+    width: 100%;
 }
 
 .dark {
     background-color: black;
     color: white;
     text-align: center;
-     padding-left: 50px;
+    padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 100px;
     width: 50%;
     float: right;
-    
+}
+.menu{
+    text-align: center;
+}
+.menu>h2{
+    color:#F19201;
 }
