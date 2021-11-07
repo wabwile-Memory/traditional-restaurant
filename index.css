@@ -2,6 +2,9 @@
     font-family:Roboto;
     src: url("fonts/Roboto-Regular.ttf");
 }
+body{
+    font-family: Roboto;
+}
 .firstcontainer {
     background-image: url("images/image2.png");
     background-size: cover;  
@@ -177,16 +180,15 @@ li {
     padding-top: 40px;
 }
 .fourdivs{
-    margin:-20px;
+    padding: 150px;
+    
 }
 
 .chapati{
     background-color: white;
     display: flex;
     width:25%;
-    padding:20px;
-    margin:3% 10% 5% 20%;
-   
+    padding:20px;   
 }
 .image4{
     padding-right: 35px;
@@ -216,6 +218,7 @@ li {
     text-align: center;
     color: white;
     margin:-45px;
+    font-size: 30px;
 }
 .fifthdiv>h4{
     padding-top: 5%;
@@ -235,7 +238,7 @@ li {
 .sixthdiv>p{
     text-align: center;
     color: white;
-    padding:20px;
+    padding:30px;
 }
 
 
