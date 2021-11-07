@@ -122,10 +122,12 @@ li {
 
 .image3 {
     width: 50%;
+    
 }
 
 #imag3 {
     width: 100%;
+
 }
 
 .dark {
@@ -187,7 +189,7 @@ li {
     align-items: center;
     text-align: center;
     color: white;
-    margin-bottom:
+    margin:0%;
 }
 .fifthdiv>h4{
     padding-top: 5%;
