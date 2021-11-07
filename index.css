@@ -1,5 +1,7 @@
 .firstcontainer {
     background-image: url("images/image2.png");
+    background-size: cover;  
+
 }
 
 #logo {
@@ -170,5 +172,18 @@ li {
     margin-bottom: 0%;
     margin-right: 20%;
     float: right;
+}
+.fifthdiv{
+    background-image: url("images/image8.png");
+    background-size: contain;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+.fifthdiv>h4{
+    padding-top: 5%;
+}
+.fifthdiv>#book{
+    margin-bottom:5%;
 }
 
