@@ -108,6 +108,10 @@ li {
     display: flex;
     align-content: center;
     justify-content: space-between;
+    margin-top: 30px;
+}
+.services>h2{
+    font-size:25px;
 }
 
 .drink {
@@ -137,7 +141,10 @@ li {
 .dots>#fruit{
     margin-right: 20%;
 }
-
+em{
+    font-size:15px;
+    margin-bottom: 20px;
+}
 .thirdcontainer {
     display: flex;
     flex-direction: row;
@@ -178,17 +185,24 @@ li {
 .menu>h2{
     color:#F19201;
     padding-top: 40px;
+    font-size: 25px;
 }
 .fourdivs{
-    padding: 150px;
+    padding: 20px;
     
+    
+}
+.fourdivs>img{
+    padding: 10px;
 }
 
 .chapati{
     background-color: white;
     display: flex;
     width:25%;
-    padding:20px;   
+    padding:25px;   
+    margin-left:20%;
+   
 }
 .image4{
     padding-right: 35px;
@@ -206,10 +220,17 @@ li {
     background-color: white;
     display: flex;
     width:25%;
-    padding:20px;
-    margin-top:0%;
+    padding: 25px;
     margin-right: 20%;
     float: right;
+}
+#chicken{
+    margin-top: 20px;
+    margin-bottom:40px;
+}
+#rice{
+    margin-top: 20px;
+    margin-bottom:40px;
 }
 .fifthdiv{
     background-image: url("images/image8.png");
