@@ -1,3 +1,7 @@
+@font-face {
+    font-family:Roboto;
+    src: url("fonts/Roboto-Regular.ttf");
+}
 .firstcontainer {
     background-image: url("images/image2.png");
     background-size: cover;  
@@ -125,6 +129,7 @@ li {
     display: flex;
     flex-direction: row;
     height: max-content;
+    margin:-20px;
 }
 
 .image3 {
@@ -150,6 +155,7 @@ li {
 .fourthcontainer{
     background-color: rgb(227,227,227,227);
     flex-wrap: wrap;
+    margin: -20px;
     
 }
 
@@ -158,6 +164,10 @@ li {
 }
 .menu>h2{
     color:#F19201;
+    padding-top: 40px;
+}
+.fourdivs{
+    margin:-20px;
 }
 
 .chapati{
@@ -195,7 +205,7 @@ li {
     align-items: center;
     text-align: center;
     color: white;
-    margin:0%;
+    margin:-45px;
 }
 .fifthdiv>h4{
     padding-top: 5%;
@@ -210,11 +220,12 @@ li {
 }
 .sixthdiv{
     background-color: black;
+    margin:-18px;
 }
 .sixthdiv>p{
     text-align: center;
     color: white;
-    padding:15px;
+    padding:20px;
 }
 
 
