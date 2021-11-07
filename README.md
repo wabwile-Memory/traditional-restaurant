@@ -1,4 +1,4 @@
-# traditional-restaurant# {Application Name}
+# traditional-restaurant
 #### {Traditional restaurant Letuce eat is a restaurant that offers a variety of meals }, {7th November, 2021}
 #### By **{Wabwile Memory Namalwa}**
 ## Description
