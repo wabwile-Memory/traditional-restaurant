@@ -185,5 +185,9 @@ li {
 }
 .fifthdiv>#book{
     margin-bottom:5%;
+    border-color: white;
+    color: white;
+    background-color: transparent;
+    padding: 10px 50px 10px 50px;
 }
 
