@@ -27,9 +27,11 @@ li {
 .navbar {
     display: flex;
     justify-content: space-between;
-    background-color: black;
     /* opacity:0.5;*/
 
+}
+.nv{
+    background-color: black;
 }
 
 #nav {
@@ -90,7 +92,6 @@ li {
     background-color: white;
     margin-bottom: 40px;
     padding: 20px;
-    align-items: center;
     text-align: center;
 
 }
@@ -102,6 +103,8 @@ li {
     border-radius: 50%;
     background-color: #F19201;
     padding: 25px;
+    text-align: center;
+    margin-left:40%;
 
 }
 
@@ -179,6 +182,7 @@ li {
     align-items: center;
     text-align: center;
     color: white;
+    margin-bottom:
 }
 .fifthdiv>h4{
     padding-top: 5%;
@@ -197,5 +201,7 @@ li {
 .sixthdiv>p{
     text-align: center;
     color: white;
+    padding:15px;
 }
+
 
